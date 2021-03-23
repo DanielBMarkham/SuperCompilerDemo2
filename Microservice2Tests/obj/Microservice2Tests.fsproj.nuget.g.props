@@ -4,23 +4,22 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/dan/.nuget/packages/</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/dan/.nuget/packages/;/usr/share/dotnet/sdk/NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/home/danielbmarkham/.nuget/packages/</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/home/danielbmarkham/.nuget/packages/</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.9.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="/home/dan/.nuget/packages/" />
-    <SourceRoot Include="/usr/share/dotnet/sdk/NuGetFallbackFolder/" />
+    <SourceRoot Include="/home/danielbmarkham/.nuget/packages/" />
   </ItemGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/home/dan/.nuget/packages/fsharp.core/5.0.0</PkgFSharp_Core>
-    <PkgExpecto_VisualStudio_TestAdapter Condition=" '$(PkgExpecto_VisualStudio_TestAdapter)' == '' ">/home/dan/.nuget/packages/expecto.visualstudio.testadapter/10.0.2</PkgExpecto_VisualStudio_TestAdapter>
-    <PkgExpecto Condition=" '$(PkgExpecto)' == '' ">/home/dan/.nuget/packages/expecto/9.0.2</PkgExpecto>
-    <PkgExpecto_FsCheck Condition=" '$(PkgExpecto_FsCheck)' == '' ">/home/dan/.nuget/packages/expecto.fscheck/9.0.2</PkgExpecto_FsCheck>
-    <PkgExpecto_Diff Condition=" '$(PkgExpecto_Diff)' == '' ">/home/dan/.nuget/packages/expecto.diff/9.0.2</PkgExpecto_Diff>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/home/danielbmarkham/.nuget/packages/fsharp.core/5.0.0</PkgFSharp_Core>
+    <PkgExpecto_VisualStudio_TestAdapter Condition=" '$(PkgExpecto_VisualStudio_TestAdapter)' == '' ">/home/danielbmarkham/.nuget/packages/expecto.visualstudio.testadapter/10.0.2</PkgExpecto_VisualStudio_TestAdapter>
+    <PkgExpecto Condition=" '$(PkgExpecto)' == '' ">/home/danielbmarkham/.nuget/packages/expecto/9.0.2</PkgExpecto>
+    <PkgExpecto_FsCheck Condition=" '$(PkgExpecto_FsCheck)' == '' ">/home/danielbmarkham/.nuget/packages/expecto.fscheck/9.0.2</PkgExpecto_FsCheck>
+    <PkgExpecto_Diff Condition=" '$(PkgExpecto_Diff)' == '' ">/home/danielbmarkham/.nuget/packages/expecto.diff/9.0.2</PkgExpecto_Diff>
   </PropertyGroup>
 </Project>

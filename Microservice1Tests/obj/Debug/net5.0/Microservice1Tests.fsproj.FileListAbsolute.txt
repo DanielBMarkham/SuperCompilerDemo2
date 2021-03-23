@@ -38,3 +38,43 @@
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests.pdb
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1.Tests.dll
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1.Tests.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests.deps.json
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests.runtimeconfig.json
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests.runtimeconfig.dev.json
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1.Tests.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/DiffPlex.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Expecto.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Expecto.Diff.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Expecto.FsCheck.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/FsCheck.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/FSharp.Core.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Mono.Cecil.Mdb.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Mono.Cecil.Pdb.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Mono.Cecil.Rocks.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Mono.Cecil.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/cs/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/de/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/es/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/fr/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/it/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/ja/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/ko/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/pl/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/pt-BR/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/ru/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/tr/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/zh-Hans/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/zh-Hant/FSharp.Core.resources.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Application1Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Application1Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/bin/Debug/net5.0/Microservice1Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.fsprojAssemblyReference.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.AssemblyInfoInputs.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.AssemblyInfo.fs
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.fsproj.CopyComplete
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1.Tests.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1.Tests.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.genruntimeconfig.cache

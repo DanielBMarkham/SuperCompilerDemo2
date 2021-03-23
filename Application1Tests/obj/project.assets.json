@@ -89,23 +89,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Daniel Markham\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/danielbmarkham/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Daniel Markham\\Documents\\Repos\\SupercompilerDemo1\\src\\Application1Tests\\Application1Tests.fsproj",
+      "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Tests/Application1Tests.fsproj",
       "projectName": "Application1Tests",
-      "projectPath": "c:\\Users\\Daniel Markham\\Documents\\Repos\\SupercompilerDemo1\\src\\Application1Tests\\Application1Tests.fsproj",
-      "packagesPath": "C:\\Users\\Daniel Markham\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Daniel Markham\\Documents\\Repos\\SupercompilerDemo1\\src\\Application1Tests\\obj\\",
+      "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Tests/Application1Tests.fsproj",
+      "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+      "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Tests/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Daniel Markham\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -145,7 +141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }

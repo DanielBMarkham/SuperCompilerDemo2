@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TkX3JaZ2Aj2f3SiECxH5f5AmGS7cXm2KcudiKfQShlN38uh7EIL4O9YamSMrL23PqXcz3bcc5/vFc85ejHK6mg==",
+  "dgSpecHash": "zvSIHmxQbRg+uelun6d3zvXWpqXd6V6pkhBoO0kqitkON5qFmLjU1UP0j0mEnxDf4NSUuMYNcb2swW1WrWMd3g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Daniel Markham\\Documents\\Repos\\SupercompilerDemo1\\strc\\TestHarness\\TestHarness.fsproj",
+  "projectFilePath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/TestHarness/TestHarness.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Daniel Markham\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "/home/danielbmarkham/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

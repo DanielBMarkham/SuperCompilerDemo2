@@ -108,23 +108,19 @@
     ]
   },
   "packageFolders": {
-    "/home/dan/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/danielbmarkham/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
+      "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
       "projectName": "Microservice3Types",
-      "projectPath": "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
-      "packagesPath": "/home/dan/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice3Types/obj/",
+      "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
+      "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+      "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/home/dan/.nuget/NuGet/NuGet.Config"
+        "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -136,8 +132,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
-              "projectPath": "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+            "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+              "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
             }
           }
         }

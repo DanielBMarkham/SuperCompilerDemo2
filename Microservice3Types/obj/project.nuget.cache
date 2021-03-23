@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HUHaKXRLs/ydI0ezyeQYXK78qTKsfdYZBqroBmwikP21H/DdJk5s+R+BUgqAs3Os0SIX3kTzg5+NS1b80OammQ==",
+  "dgSpecHash": "XmarZmvKaTAcJXdjFcQxwv2JMoHJe63iddmT5rzqqP1xnkErzl9dtCzCBwCUWgMqrG7eFW5RwSj5hd7Ybh7oow==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
+  "projectFilePath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
   "expectedPackageFiles": [
-    "/home/dan/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+    "/home/danielbmarkham/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
