@@ -9,3 +9,14 @@
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.fsproj.CopyComplete
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.dll
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Microservice2Types.deps.json
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Microservice2Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Microservice2Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Application1Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Application1Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.fsprojAssemblyReference.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.AssemblyInfoInputs.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.AssemblyInfo.fs
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.fsproj.CopyComplete
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.pdb

@@ -11,3 +11,16 @@
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.fsproj.CopyComplete
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.dll
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Microservice1.deps.json
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Microservice1.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Microservice1.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Application1Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Microservice1Types.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Application1Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/bin/Debug/net5.0/Microservice1Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.fsprojAssemblyReference.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.AssemblyInfoInputs.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.AssemblyInfo.fs
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.fsproj.CopyComplete
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/Debug/net5.0/Microservice1.pdb
