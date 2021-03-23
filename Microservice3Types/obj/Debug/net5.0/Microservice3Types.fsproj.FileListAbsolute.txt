@@ -19,3 +19,4 @@
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.fsproj.CopyComplete
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.dll
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.pdb
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.fsprojAssemblyReference.cache
