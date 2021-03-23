@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Microservice1.Tests</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Library.fs"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Application1Types\Application1Types.fsproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Microservice1Types\Microservice1Types.fsproj"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Expecto.VisualStudio.TestAdapter" Version="10.0.2"/>
+    <PackageReference Include="Expecto" Version="9.0.2"/>
+    <PackageReference Include="Expecto.Diff" Version="9.0.2"/>
+    <PackageReference Include="Expecto.FsCheck" Version="9.0.2"/>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1E8ebMtsWadIkdpi0P5199rCGhGiylO4NhiDbhxi0nWIggln96nZ9THSdzK9woBpihn2GCdTIKuy54KT/4taA==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice3/Microservice3.fsproj",
+  "expectedPackageFiles": [
+    "/home/dan/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

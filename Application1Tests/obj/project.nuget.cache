@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "srzhFzAmw0h5OxuMEGSg6/jrMUQ4mniVMnMFXvu86TFQw/duceE41YCib0YtMmEMizkwCWrLRqbJ62mFfdOnog==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Daniel Markham\\Documents\\Repos\\SupercompilerDemo1\\src\\Application1Tests\\Application1Tests.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Markham\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

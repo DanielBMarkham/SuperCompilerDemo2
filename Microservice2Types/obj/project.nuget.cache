@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bm1XfPSqI1sIC2Ju52C4dbqWHCN80dr9TKbRZCzHCiBXKVrnzO2GHTeJYyzqKIIKoLCWyHfACcvQ47M5mL1xbg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Daniel Markham\\Documents\\Repos\\SupercompilerDemo1\\src\\Microservice2Types\\Microservice2Types.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel Markham\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

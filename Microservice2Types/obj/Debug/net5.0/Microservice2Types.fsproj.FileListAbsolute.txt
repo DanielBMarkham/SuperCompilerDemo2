@@ -1,0 +1,11 @@
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Microservice2Types.deps.json
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Microservice2Types.dll
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Microservice2Types.pdb
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Application1Types.dll
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/bin/Debug/net5.0/Application1Types.pdb
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.fsprojAssemblyReference.cache
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.AssemblyInfoInputs.cache
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.AssemblyInfo.fs
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.fsproj.CopyComplete
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.dll
+/mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Types/obj/Debug/net5.0/Microservice2Types.pdb
