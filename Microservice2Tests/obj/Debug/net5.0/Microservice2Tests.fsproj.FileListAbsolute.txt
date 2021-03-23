@@ -38,3 +38,8 @@
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2.Tests.dll
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2.Tests.pdb
 /mnt/c/Users/Daniel Markham/Documents/Repos/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2Tests.genruntimeconfig.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2Tests.AssemblyInfoInputs.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2Tests.AssemblyInfo.fs
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2Tests.fsproj.CoreCompileInputs.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2.Tests.dll
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Tests/obj/Debug/net5.0/Microservice2.Tests.pdb

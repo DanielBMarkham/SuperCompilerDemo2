@@ -21,7 +21,3 @@ module AppTypes=
   type UniversalMicroserviceConfig=UniversalConfigItems
   type GetAPPConfigFunction=UniversalMicroserviceConfig
 
-
-module Say =
-    let hello name =
-        printfn "Hello %s" name

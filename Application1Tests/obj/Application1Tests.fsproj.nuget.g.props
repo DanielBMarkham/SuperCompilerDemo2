@@ -17,5 +17,9 @@
   </PropertyGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/home/danielbmarkham/.nuget/packages/fsharp.core/5.0.0</PkgFSharp_Core>
+    <PkgExpecto_VisualStudio_TestAdapter Condition=" '$(PkgExpecto_VisualStudio_TestAdapter)' == '' ">/home/danielbmarkham/.nuget/packages/expecto.visualstudio.testadapter/10.0.2</PkgExpecto_VisualStudio_TestAdapter>
+    <PkgExpecto Condition=" '$(PkgExpecto)' == '' ">/home/danielbmarkham/.nuget/packages/expecto/9.0.2</PkgExpecto>
+    <PkgExpecto_FsCheck Condition=" '$(PkgExpecto_FsCheck)' == '' ">/home/danielbmarkham/.nuget/packages/expecto.fscheck/9.0.2</PkgExpecto_FsCheck>
+    <PkgExpecto_Diff Condition=" '$(PkgExpecto_Diff)' == '' ">/home/danielbmarkham/.nuget/packages/expecto.diff/9.0.2</PkgExpecto_Diff>
   </PropertyGroup>
 </Project>

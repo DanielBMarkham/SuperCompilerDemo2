@@ -1,11 +1,30 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <AssemblyName>Microservice3.Tests</AssemblyName>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Include="Library.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application1Types\Application1Types.fsproj" />
+    <ProjectReference Include="..\Microservice1Types\Microservice1Types.fsproj" />
+    <ProjectReference Include="..\Microservice1\Microservice1.fsproj" />
+    <ProjectReference Include="..\Microservice2Types\Microservice2Types.fsproj" />
+    <ProjectReference Include="..\Microservice2\Microservice2.fsproj" />
+    <ProjectReference Include="..\Microservice3Types\Microservice3Types.fsproj" />
+    <ProjectReference Include="..\Microservice3\Microservice3.fsproj" />
+
+    <PackageReference Include="Expecto.VisualStudio.TestAdapter" Version="10.0.2"/>
+    <PackageReference Include="Expecto" Version="9.0.2"/>
+    <PackageReference Include="Expecto.Diff" Version="9.0.2"/>
+    <PackageReference Include="Expecto.FsCheck" Version="9.0.2"/>
+
+
   </ItemGroup>
 
 </Project>

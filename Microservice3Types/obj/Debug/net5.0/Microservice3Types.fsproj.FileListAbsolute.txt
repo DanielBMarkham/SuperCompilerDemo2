@@ -14,7 +14,6 @@
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/bin/Debug/net5.0/Microservice3Types.pdb
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/bin/Debug/net5.0/Application1Types.dll
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/bin/Debug/net5.0/Application1Types.pdb
-/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.fsprojAssemblyReference.cache
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.AssemblyInfoInputs.cache
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.AssemblyInfo.fs
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/Debug/net5.0/Microservice3Types.fsproj.CopyComplete

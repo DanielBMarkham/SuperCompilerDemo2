@@ -78,3 +78,4 @@
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1.Tests.dll
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1.Tests.pdb
 /home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.genruntimeconfig.cache
+/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Tests/obj/Debug/net5.0/Microservice1Tests.fsproj.CoreCompileInputs.cache

@@ -7,11 +7,11 @@ open System
 open System.Reflection
 
 
-[<assembly: System.Reflection.AssemblyCompanyAttribute("Application1Tests")>]
+[<assembly: System.Reflection.AssemblyCompanyAttribute("Microservice3.Tests")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
 [<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
-[<assembly: System.Reflection.AssemblyProductAttribute("Application1Tests")>]
-[<assembly: System.Reflection.AssemblyTitleAttribute("Application1Tests")>]
+[<assembly: System.Reflection.AssemblyProductAttribute("Microservice3.Tests")>]
+[<assembly: System.Reflection.AssemblyTitleAttribute("Microservice3.Tests")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
 do()

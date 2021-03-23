@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Tests/Application1Tests.fsproj",
-        "projectName": "Application1Tests",
+        "projectName": "Microservice3.Tests",
         "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Tests/Application1Tests.fsproj",
         "packagesPath": "/home/danielbmarkham/.nuget/packages/",
         "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Tests/obj/",
@@ -25,7 +25,460 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/Microservice1.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/Microservice1.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2/Microservice2.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2/Microservice2.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3/Microservice3.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3/Microservice3.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Expecto": {
+              "target": "Package",
+              "version": "[9.0.2, )",
+              "generatePathProperty": true
+            },
+            "Expecto.Diff": {
+              "target": "Package",
+              "version": "[9.0.2, )",
+              "generatePathProperty": true
+            },
+            "Expecto.FsCheck": {
+              "target": "Package",
+              "version": "[9.0.2, )",
+              "generatePathProperty": true
+            },
+            "Expecto.VisualStudio.TestAdapter": {
+              "target": "Package",
+              "version": "[10.0.2, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj",
+        "projectName": "Application1Types",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/Microservice1.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/Microservice1.fsproj",
+        "projectName": "Microservice1",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/Microservice1.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj",
+        "projectName": "Microservice1Types",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/Microservice1Types.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice1Types/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2/Microservice2.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2/Microservice2.fsproj",
+        "projectName": "Microservice2",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2/Microservice2.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj",
+        "projectName": "Microservice2Types",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/Microservice2Types.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice2Types/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3/Microservice3.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3/Microservice3.fsproj",
+        "projectName": "Microservice3",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3/Microservice3.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              },
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
+        "projectName": "Microservice3Types",
+        "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/Microservice3Types.fsproj",
+        "packagesPath": "/home/danielbmarkham/.nuget/packages/",
+        "outputPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Microservice3Types/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/danielbmarkham/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj": {
+                "projectPath": "/home/danielbmarkham/Source/SupercompilerDemo1/src/Application1Types/Application1Types.fsproj"
+              }
+            }
           }
         }
       },
